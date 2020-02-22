@@ -1,0 +1,2 @@
+# myCalculator
+ES5函数式编程实现计算器功能，Webpack配置，ES6模块化重构实现计算器功能，defineProperties/Proxy实现双向数据绑定。

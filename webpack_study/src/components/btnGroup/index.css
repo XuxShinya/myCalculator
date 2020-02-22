@@ -1,0 +1,5 @@
+.btnGroup button.selected {
+    background: orange;
+    color: white;
+    outline: none;
+}
